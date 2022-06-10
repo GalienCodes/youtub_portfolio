@@ -7,7 +7,7 @@ import { FaLinkedinIn } from "react-icons/fa";
 const Hero = () => {
   return (
     <div  className='max-w-7xl  flex flex-col p-5 pb-0 mx-auto justify-center items-center  text-gray-300'>
-        <div className='relative mb-8 pt-8'>
+        <div className='relative mb-10 pt-10'>
           <img src="https://i.ibb.co/p17bsGC/DSC-3662.jpg" alt="profile" className='w-60 h-34 border-2 border-orange-500 rounded '/>
           <div className='flex items-center justify-center'>
             <Link href="/">
