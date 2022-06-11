@@ -13,20 +13,20 @@ export const data =[
     {
       id: '4dfsfoksdofksd',
       category:"Web App",
-      title: "Web Rampa UI Design",
+      title: "SHAREME",
       img: "https://i.ibb.co/m49x9hN/shareme.png",
       tools:['css','html',"js"],
-      content:"miCasa an amazing Real Estate Application. With rental homes and for-sale properties, advanced property filtering, property details page with an image carousel",
+      content:"With All Advanced Social Media Features, Such As Google Authentication, Create, Edit, Delete And Save Posts, Like And Comment On Other People's Posts,",
         linkGit:"https://github.com/Muhindo-Galien/micasa",
 
     },
     {
       id: "5jifjsdjisjifsdi",
-      category:"Featured",
+      category:"Portfolio",
       title: "Web E-commerce Design",
       img: "https://i.ibb.co/PCTkn8j/first-Portfolio.png",
       tools:['css','html',"js"],
-      content:"miCasa an amazing Real Estate Application. With rental homes and for-sale properties, advanced property filtering, property details page with an image carousel",
+      content:"This Is A Portfolio Taht I Developed In Order To Expose Ellie's Skills So That He Can Land A Job As Well As Get Connections.",
         linkGit:"https://github.com/Muhindo-Galien/micasa",
 
     }
