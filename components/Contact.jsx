@@ -27,7 +27,7 @@ const Contact = () => {
       id="contact"
       className="font-globalFont max-w-xl  flex flex-col mt-4 p-5 mx-auto justify-center items-center  text-gray-300 pb-24 "
     >
-      <h1 className="text-2xl font-bold pb-10 ">
+      <h1 className="text-2xl font-bold pb-10 text-center">
         Let's Talk About Your Project
       </h1>
 

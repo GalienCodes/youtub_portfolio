@@ -16,12 +16,12 @@ const About = () => {
             className="w-full h-full md:w-40  object-cover  rounded-lg"
           />
           <div className="my-2">
-            <p className="text-gray-400 text-base">
+            <p className="text-gray-400 text-base text-center md:text-left">
               Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Pariatur, itaque quod?
             </p>
             <br />
-            <p className="text-gray-400 text-lg">
+            <p className="text-gray-400 text-lg text-center md:text-left">
               Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Pariatur, itaque quod? Impedit voluptatum
             </p>
