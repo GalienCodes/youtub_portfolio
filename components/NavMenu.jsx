@@ -6,6 +6,7 @@ import { AiOutlineHome } from "react-icons/ai";
 import Link from 'next/link';
 
 const NavMenu = () => {
+    console.log("Galien @");
   return (
     <div className='md:hidden max-w-7xl  flex  items-center justify-center p-5 mx-auto'>
         <ul className='fixed bottom-4 bg-orange-500  flex px-10 py-4 w-80 justify-between items-center rounded-full'>
